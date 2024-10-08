@@ -8,8 +8,8 @@
 #define DHTPIN 4    
 #define DHTTYPE DHT11   // DHT 11
 
-const char* ssid = "Kamar_9";
-const char* password = "ggkkggkk147";
+const char* ssid = "**********";
+const char* password = "************";
 const int HTTPPort = 80;
 
 //deklarasi server
